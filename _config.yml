@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Jo Hyeon Yong"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CNU ECE Undergraduate"
   location         : "Gwangju, Republic of Korea"
   email            : "showtime___@naver.com"

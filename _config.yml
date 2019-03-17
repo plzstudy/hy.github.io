@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Jo Hyeon Yong"
   avatar           : "/assets/images/profile2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "CNU ECE Undergraduate, NMSP Lab. , The member of CNU Econovation"
+  bio              : "CNU ECE Undergraduate\nNMSP Lab.\nThe member of CNU Econovation"
   location         : "Gwangju, Republic of Korea"
   email            : "showtime___@naver.com"
   links:

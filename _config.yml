@@ -131,7 +131,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "YouTube (Game)"
-      icon: "fab fa-youtube-square"
+      icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/user/ngsk0421"
 
 # Site Footer

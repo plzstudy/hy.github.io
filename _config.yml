@@ -126,10 +126,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/plzstudy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "YouTube"
+      icon: "fab fa-youtube-square"
+      url: "https://youtube.com"
 
 # Site Footer
 footer:
